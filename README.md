@@ -24,3 +24,17 @@
 ![Jenkins_result_3.JPG](https://github.com/edjanserikov/devops/blob/master/img/Jenkins_result_3.JPG)
 ![Jenkins_result_nexus.JPG](https://github.com/edjanserikov/devops/blob/master/img/Jenkins_result_nexus.JPG)
 
+### Задание 2
+
+1. `Настроил проект в jenkins с типом Pipeline`
+2. `Прописал код из дополнительных материалов`
+3. `Получил ошибку при выполнении`
+4. `Указал полный путь к go`
+5. `Все выполниось без ошибок`
+
+`Скриншоты:`
+![Task2_config.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task2_config.JPG)
+![Task2_result.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task2_result.JPG)
+
+
+
