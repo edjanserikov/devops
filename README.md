@@ -37,4 +37,15 @@
 ![Task2_result.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task2_result.JPG)
 
 
+### Задание 3
+
+1. `Настроил проект my_pipe3 в jenkins с типом Pipeline`
+2. `Прописал код из дополнительных материалов`
+3. `Получил ошибку при выполнении`
+4. `Указал полный путь к go`
+5. `Все выполниось без ошибок`
+
+`Скриншоты:`
+![Task2_config.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task2_config.JPG)
+![Task2_result.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task2_result.JPG)
 
