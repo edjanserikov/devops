@@ -40,12 +40,13 @@
 ### Задание 3
 
 1. `Настроил проект my_pipe3 в jenkins с типом Pipeline`
-2. `Прописал код из дополнительных материалов`
-3. `Получил ошибку при выполнении`
-4. `Указал полный путь к go`
-5. `Все выполниось без ошибок`
+2. `Прописал измененный код pipeline с генерацией двоичного кода go`
+3. `Создал новый репозиторий my_repo2 на nexus`
+4. `Отработал ошибки go`
+5. `Добавил в код выгрузку файла в репозиторий nexus`
+6. `Все отработало хорошо`
+7. `Выгрузил img файлы с настройкой и результатами выполнения работ. Отредактировал README.md`
 
 `Скриншоты:`
-![Task2_config.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task2_config.JPG)
-![Task2_result.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task2_result.JPG)
-
+![Task3_config.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task3_config.JPG)
+![Task3_result.JPG](https://github.com/edjanserikov/devops/blob/master/img/Task3_result.JPG)
